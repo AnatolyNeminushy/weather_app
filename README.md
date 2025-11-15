@@ -56,3 +56,6 @@ VITE_OPENWEATHER_API_KEY=ВАШ_КЛЮЧ
 - Tailwind CSS
 - OpenWeather API (Current Weather + Geocoding)
 
+## Деплой
+
+Приложение доступно по адресу: https://anatolyneminushy.github.io/weather_app/
